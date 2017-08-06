@@ -1,2 +1,2 @@
 # this is the test repository
-![myimage-alt-tag](https://drive.google.com/open?id=0B3nAjpsXVUy9MmhreWVMWVpxZU0)
+![dashboard](https://github.com/kaushikraina/testrepo/blob/master/Screenshot_2016-08-20-09-02-29.png)
